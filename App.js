@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Hello world!!! From Group nr. 12: Toms Sirmulis</Text>
-      <Text>This is my Toms Sirmulis first React native application</Text>
+      <Text>This is my Toms Sirmulis first React native application!!!</Text>
       <StatusBar style="auto" />
     </View>
   );
